@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **A Smart Voice Assistant Project**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Python and Django**
 
-- 👯 I’m looking to collaborate on **other open source projects too**
+- 👯 I’m looking to collaborate on **other open source projects**
 
 - 📫 How to reach me **swaroopbhagwat369@gmail.com**
 
